@@ -2,7 +2,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Backend+Engineering;Blockchain+%26+Web3;Software+Engineering+%26+Problem+Solving" alt="Backend Engineering | Blockchain and Web3 | Software Engineering"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&height=40&lines=Backend+Engineering+%7C+Blockchain+%26+Web3+%7C+Software+Engineering+%7C+Problem+Solving" alt="Backend Engineering | Blockchain and Web3 | Software Engineering | Problem Solving"/>
+
+</div>
 
 **Software Engineer**
 
