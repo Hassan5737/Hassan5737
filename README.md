@@ -1,13 +1,21 @@
 # Hassan Ahmed Hassan
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:172554,60:312E81,100:0D1117&height=100&section=header&animation=twinkling" alt="Animated blue and purple header"/>
+
 ### Software Engineer | Backend Engineering · Blockchain & Web3
 
 Building reliable software. Understanding systems deeply. Solving problems through thoughtful engineering.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassan-ahmed-assad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/hassan5737/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-  <a href="https://medium.com/@hasanhazem2016"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-FFFFFF?style=flat-square&logo=medium&logoColor=black" alt="Medium"/></a>
-</p>
+<br/>
+
+<a href="https://www.linkedin.com/in/hassan-ahmed-assad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/hassan5737/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://medium.com/@hasanhazem2016"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-FFFFFF?style=flat-square&logo=medium&logoColor=black" alt="Medium"/></a>
+<a href="mailto:hasanhazem2016@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+
+</div>
 
 ---
 
@@ -89,6 +97,10 @@ I believe strong engineers understand not only how to build a solution, but also
 
 ---
 
-<p align="center">
-  <strong>Understand the system. Solve the problem. Build it right.</strong>
-</p>
+<div align="center">
+
+**Understand the system. Solve the problem. Build it right.**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:312E81,75:172554,100:0D1117&height=65&section=footer&animation=twinkling" alt="Animated footer decoration"/>
+
+</div>
