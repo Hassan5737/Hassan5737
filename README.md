@@ -1,117 +1,94 @@
 # Hassan Ahmed Hassan
+### Software Engineer | Backend Engineering · Blockchain & Web3
 
-<div align="center">
+Building reliable software. Understanding systems deeply. Solving problems through thoughtful engineering.
 
-<div align="center">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/BACKEND-ENGINEERING-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="Backend Engineering"/> <img src="https://img.shields.io/badge/BLOCKCHAIN-%26_WEB3-161B22?style=for-the-badge&labelColor=161B22&color=8957E5" alt="Blockchain and Web3"/> <img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-161B22?style=for-the-badge&labelColor=161B22&color=3FB950" alt="Software Engineering"/> <img src="https://img.shields.io/badge/PROBLEM-SOLVING-161B22?style=for-the-badge&labelColor=161B22&color=F0883E" alt="Problem Solving"/>
-
-</div>
-
-</div>
-
-**Software Engineer**
-
-Building reliable systems. Understanding systems deeply. Solving problems through thoughtful engineering.
-
-<br/>
-
-<a href="https://www.linkedin.com/in/hassan-ahmed-assad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/hassan5737/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://medium.com/@hasanhazem2016"><img src="https://img.shields.io/badge/Medium-Articles-FFFFFF?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/></a>
-<a href="mailto:hasanhazem2016@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassan-ahmed-assad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/hassan5737/"><img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://medium.com/@hasanhazem2016"><img src="https://img.shields.io/badge/Medium-Read%20My%20Articles-FFFFFF?style=flat-square&logo=medium&logoColor=black" alt="Medium"/></a>
+</p>
 
 ---
 
-## Engineering Philosophy
+### About Me
 
-My approach to software engineering goes beyond making code work. I care about understanding how systems operate internally, designing maintainable architectures, solving complex problems, and building reliable software with performance, scalability, and long term maintainability in mind.
+I focus on **Backend Engineering, Blockchain & Web3, and core Software Engineering principles**. I enjoy understanding how systems work internally, designing maintainable architectures, solving challenging problems, and making thoughtful decisions around performance, scalability, and security.
 
-I focus on **Backend Engineering and Blockchain & Web3**, combining software engineering fundamentals with an interest in decentralized systems, smart contracts, and the architecture behind real world applications.
+I believe strong engineers understand not only how to build a solution, but also why it works and what trade offs it introduces.
 
-I value understanding why a solution works, choosing the right tools for the problem, and making engineering decisions based on their trade offs rather than relying on a particular language or framework.
-
-## Core Areas
+### Engineering Focus
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Backend Engineering
-
-Building the foundations behind reliable software products.
+**Backend Engineering**
 
 - API design and server side development
-- REST and GraphQL
-- SQL and NoSQL databases
+- Databases and data modeling
 - System design and software architecture
-- Distributed systems and scalability
+- Scalability, reliability, and distributed systems
 
 </td>
 <td width="50%" valign="top">
 
-### Blockchain & Web3
+**Blockchain & Web3**
 
-Exploring smart contract engineering and decentralized applications.
-
-- Ethereum and EVM
+- Ethereum and the EVM
 - Solidity and smart contracts
-- Foundry, Hardhat and Remix
-- OpenZeppelin
-- Ethers.js and Viem
-- ERC20, ERC721 and ERC1155
-- DeFi and Layer 2 ecosystems
+- Smart contract security and gas optimization
+- DeFi, token standards, and decentralized applications
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Software Engineering**
+
+- Data Structures & Algorithms
+- Object Oriented Design
+- Systems Programming and memory management
+- Maintainable, efficient software
+
+</td>
+<td width="50%" valign="top">
+
+**Problem Solving**
+
+- Algorithmic thinking and complexity analysis
+- Breaking down complex problems
+- Evaluating solutions and trade offs
+- Continuous practice through coding challenges
 
 </td>
 </tr>
 </table>
 
-## Computer Science & Systems
+### Technologies
 
-Data Structures & Algorithms · Object Oriented Programming · Complexity Analysis · Problem Solving · Memory Management · Systems Programming
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,go,python,postgres,mongodb,git,linux,docker,solidity,ethereum&theme=dark" alt="Technologies and tools"/>
+</p>
 
-C++ remains an important part of my engineering foundation, while my broader focus is on understanding concepts deeply and applying them across different technologies.
+<p align="center">
+  <sub>Blockchain ecosystem: Foundry · Hardhat · Remix · OpenZeppelin · Ethers.js · Viem</sub>
+</p>
 
-## Technology Landscape
+### GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hassan5737&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan5737&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cpp,python,go,postgres,mongodb,docker,linux,git&theme=dark" alt="Software engineering technologies"/>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=solidity,ethereum&theme=dark" alt="Blockchain technologies"/>
-
-<br/>
-
-<sub>Foundry · Hardhat · Remix · OpenZeppelin · Ethers.js · Viem</sub>
-
-</div>
-
-## GitHub Insights
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hassan5737&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hassan5737&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Hassan5737&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Hassan5737&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+</p>
 
 ---
 
-<div align="center">
-
-**Understand the system. Design the solution. Build it well.**
-
-<sub>Backend Engineering × Blockchain × Software Engineering</sub>
-
-</div>
+<p align="center">
+  <strong>Understand the system. Solve the problem. Build it right.</strong>
+</p>
