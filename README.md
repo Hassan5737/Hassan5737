@@ -4,7 +4,11 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=1&pause=999999&color=58A6FF&center=true&vCenter=true&repeat=false&width=800&height=40&lines=Backend+Engineering+%7C+Blockchain+%26+Web3+%7C+Software+Engineering+%7C+Problem+Solving" alt="Backend Engineering | Blockchain and Web3 | Software Engineering | Problem Solving"/>
+<div align="center">
+
+<img src="https://img.shields.io/badge/BACKEND-ENGINEERING-161B22?style=for-the-badge&labelColor=161B22&color=58A6FF" alt="Backend Engineering"/> <img src="https://img.shields.io/badge/BLOCKCHAIN-%26_WEB3-161B22?style=for-the-badge&labelColor=161B22&color=8957E5" alt="Blockchain and Web3"/> <img src="https://img.shields.io/badge/SOFTWARE-ENGINEERING-161B22?style=for-the-badge&labelColor=161B22&color=3FB950" alt="Software Engineering"/> <img src="https://img.shields.io/badge/PROBLEM-SOLVING-161B22?style=for-the-badge&labelColor=161B22&color=F0883E" alt="Problem Solving"/>
+
+</div>
 
 </div>
 
